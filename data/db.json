@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\nIt is a log established fact that reader will be distracted    Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis repellendus asperiores aliquam ad aspernatur placeat, voluptatum adipisci accusamus repudiandae amet assumenda natus molestiae itaque quae cupiditate. Repellat ea veniam placeat obcaecati at libero harum atque nulla, dolore tenetur quaerat in repudiandae praesentium doloribus pariatur ullam nisi, impedit saepe aut distinctio nam? Architecto consectetur provident dolor tenetur tempore inventore natus est, nobis aperiam praesentium maiores consequatur, qui velit eaque quibusdam at culpa optio perspiciatis voluptatem quis quos laudantium cupiditate iste sint. Ea ex, assumenda quaerat distinctio id modi quod culpa. Quis explicabo vitae aliquam temporibus reprehenderit sunt optio quae labore quaerat.",
+      "author": "yoshi",
+      "id": 2
+    }
+  ]
+}
